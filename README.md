@@ -23,7 +23,7 @@ Dans **Arènes Mystiques**, vous choisissez un héros (mage, guerrier, rôdeur, 
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/bu7ch/Mystic_Arena.git
-   cd arenes-mystiques
+   cd Mystic_Arena
    ```
 
 2. Installez les dépendances :
@@ -84,7 +84,7 @@ Cliquez sur le bouton **Fork** en haut de cette page.
 ### 2. Clonez votre fork
 ```bash
 git clone https://github.com/bu7ch/Mystic_Arena.git
-cd arenes-mystiques
+cd Mystic_Arena
 ```
 
 ### 3. Créez une branche pour votre contribution
